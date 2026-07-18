@@ -70,10 +70,6 @@
 
 ## Friday
 
-### 2:00–4:00 PM
-
-- Drive from Pittsburgh (~3.5 hours)
-
 ### 4:00 PM
 
 - Check into your cabin.
@@ -142,15 +138,12 @@ These are some of the area's best trails and are easy to combine into a morning.
 Coffee outside.
 
 ### 9:00–10:30
-One shorter hike before heading home.
 
-I'd choose:
-
-Ash Cave (easy and beautiful)
-Whispering Cave
-Rock House (if you didn't do it Saturday)
+**Whispering Cave**
+- **Trail Map**
+  ![Trail Maps](https://www.hockinghills.com/trails/cedar_falls/maps/1920/cedar_falls.webp)
 
 ### 11:30 AM
-Start the drive back to Pittsburgh.
+Drive home (~3.5 hours)
 
 You'll be home by mid-afternoon.
