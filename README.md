@@ -135,7 +135,7 @@ These are some of the area's best trails and are easy to combine into a morning.
 ## Sunday
 
 ### 8:00 AM
-Coffee outside.
+Breakfast @ the cabin
 
 ### 9:00–10:30
 
@@ -145,5 +145,3 @@ Coffee outside.
 
 ### 11:30 AM
 Drive home (~3.5 hours)
-
-You'll be home by mid-afternoon.
