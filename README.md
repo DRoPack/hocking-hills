@@ -94,6 +94,8 @@
 
 ### 8:30–12:00
 
+> Grandma Gatewood Trail (5.3 miles) connects with Old Man's Cave, Cedar Falls, and Whispering Cave
+
 - **Old Man's Cave**
   - **Address** - Old Man's Cave, Logan, OH 43138 (Need to confirm)
   - **Trail Map**
