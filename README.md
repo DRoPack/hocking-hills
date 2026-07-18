@@ -37,7 +37,7 @@
 
 ### Stonehaven
 
-![Stonehaven]([https://cdn01.eviivo.media/images/d/3d18baa5ccb598ce81a057ba8d7002d0158691c9d3dd53c5c5abcafc57dacb05-bc20c59c7b_v0_w854xh0_rDEF.jpg?catid=34176)
+![Stonehaven](https://cdn01.eviivo.media/images/d/3d18baa5ccb598ce81a057ba8d7002d0158691c9d3dd53c5c5abcafc57dacb05-bc20c59c7b_v0_w854xh0_rDEF.jpg?catid=34176)
 
   - **Address** - [39°30'06.5"N 82°31'59.8"W](https://maps.app.goo.gl/Eu94uh5KJPPQAfXZ7) (approximate location)
   - **Listing** -  [HockingHills.com](https://www.hockinghills.com/detail.html?property=34176&adults=2&children=0&checkin=2026%2D09%2D11&checkout=2026%2D09%2D13)
