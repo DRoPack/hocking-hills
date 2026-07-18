@@ -59,7 +59,7 @@
 
 ### The Alpine
 
-![The Alpine]https://static.wixstatic.com/media/18bd15_4cbdf03c018146529a6d128a7b8901ae~mv2.jpg/v1/fit/w_1024,h_683,q_90,enc_avif,quality_auto/18bd15_4cbdf03c018146529a6d128a7b8901ae~mv2.jpg)
+![The Alpine](https://static.wixstatic.com/media/18bd15_4cbdf03c018146529a6d128a7b8901ae~mv2.jpg/v1/fit/w_1024,h_683,q_90,enc_avif,quality_auto/18bd15_4cbdf03c018146529a6d128a7b8901ae~mv2.jpg)
 
   - **Address** - [24760 Shurtz Rd, Creola, OH 45622](https://maps.app.goo.gl/ha6MZx2mFiRuoCuc8) (approximate location)
   - **Listing** -  [theeverwood.com](https://www.theeverwoods.com/alpine)
