@@ -37,8 +37,6 @@
 
 ### Stonehaven
 
-### Stonehaven
-
 ![Stonehaven](https://cdn01.eviivo.media/images/d/2c131cbb33f75b7a07f232c5922b8d688f3e947389e4cfc00ece8d127861602d-56fb61da95_v0_w854xh0_rDEF.jpg?catid=34176)
 
   - **Address** - [39°30'06.5"N 82°31'59.8"W](https://maps.app.goo.gl/Eu94uh5KJPPQAfXZ7) (approximate location)
