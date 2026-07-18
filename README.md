@@ -100,9 +100,13 @@
 
 - **Old Man's Cave**
   - **Address** - Old Man's Cave, Logan, OH 43138 (Need to confirm)
+  - **Trail Map**
+    ![Trail Map](https://www.hockinghills.com/trails/old_mans_cave/maps/1920/old_mans_cave.webp)
 
 - **Cedar Falls** (5 minute drive from Old Man's Cave)
   - **Address** - Cedar Falls, Logan, OH 43138 (Need to confirm)
+  - **Trail Map**
+    ![Trail Map](https://www.hockinghills.com/trails/cedar_falls/maps/1920/cedar_falls.webp)
 
 > Option B (Less crowded) - Conkle's Hollow and Rock House
 
